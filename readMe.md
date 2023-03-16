@@ -1,4 +1,7 @@
-# Noteable Assessment
+# Medical Text Classification Model
+
+This project classifies unstructred medical text data and classifies it based 
+on a diagnosis. This data is scrubbed and anonymize for any PIP information.
 
 ## Naive Bayes model
 
